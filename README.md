@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-📖 I’m currently learning React.js<br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, JavaScript, BootStrap and TailWind Css!<br>📧 Feel free to reach me at : tarunsaini3500@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/1TnZ4uusXxYtDTTJximW_CmKT36BGhQQl/view?usp=drive_link)<br>🏷️ Check out my [Portfolio](https://fw24-269.github.io/Portfolio/)
+📖 I’m currently learning React.js<br>🙋🏻‍♂️ Feel free to ask me about HTML, CSS, JavaScript, BootStrap and TailWind Css!<br>📧 Feel free to reach me at : tarunsaini3500@gmail.com<br>📄 Check out my [Resume](https://drive.google.com/file/d/1Npp9XTVu3PJF639G13DiIhbOnYByfrHu)<br>🏷️ Check out my [Portfolio](https://fw24-269.github.io/Portfolio/)
 
 
 ## 🌐 Socials:
